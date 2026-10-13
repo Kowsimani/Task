@@ -1,0 +1,34 @@
+.light {
+  background: white;
+  color: black;
+  min-height: 100vh;
+}
+.dark {
+  background: #3f0343;
+  color: white;
+  min-height: 100vh;
+  
+}
+
+button {
+  padding: 10px 20px;
+  background: rgb(231, 75, 208);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.dark button {
+  background: white;
+  color: black;
+}
+
+.box{
+    color:rgb(227, 93, 15);
+    
+     
+}
+.number{
+    color: rgba(233, 4, 27, 0.979);
+    
+}

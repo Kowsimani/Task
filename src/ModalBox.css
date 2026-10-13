@@ -1,0 +1,60 @@
+.modal{
+    display: relative;
+    width: 40%;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-left: 30%;
+    border:1px solid rgb(131, 55, 218) ;
+    border-radius: 30px;
+    padding: 33px;
+    background-color:gray;
+    color: white;
+    
+
+
+}
+.button{
+    border-radius: 2px;
+    background-color: rgb(209, 214, 229);
+    color:rgb(31, 25, 25);
+    font-size: 15px;
+    border: none;
+}
+.OK{
+    border-radius: 2px;
+    background-color: rgb(226, 119, 214);
+    color:black;
+    font-size: 15px;
+    padding: 10px;
+    margin: 5%;
+    border-radius: 10px;
+
+    
+}
+.xbutton{
+    border:none;
+    background-color: white;
+    color: black;
+    position:absolute;
+    width: 3%;
+    margin-left: 35%;
+    margin-top: 3%;
+    font-size: 20px;
+
+    
+}
+.overlay{
+min-height: 100vh;
+width:100%;
+background: #151321;
+}
+.img{
+    margin: 30px;;
+}
+.popup{
+    background-color: white;
+    width:40%;
+    height: 30%;
+    margin:20% ;
+    margin-left: 30%;
+}
