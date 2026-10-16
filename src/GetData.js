@@ -5,7 +5,7 @@ const GetData = () => {
     const[data,setData]=useState([])
     useEffect(()=>{
        // axios.get("https://dummyjson.com/c/577b-e093-4e92-8091")
-        //.then((res)=>setData(res.data))
+        //
     },[])
   return (
     <div>
